@@ -1,7 +1,7 @@
 # my_POC
 There is my vuln POC and EXP. Some of POC were collected, most of POC and EXP were written by myself.
 
-#### 声明：以下脚本具有攻击性，请勿非法使用，否则后果自负。请勿进行非授权测试，否则后果自负。
+#### 声明：以下脚本具有攻击性，仅供专业渗透测试人员在授权情况下合法使用，请勿非法使用，否则后果自负。请勿进行非授权测试，否则后果自负。
 
 ##### Welcome
    CSDN：https://afei00123.blog.csdn.net/
