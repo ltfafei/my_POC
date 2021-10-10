@@ -63,4 +63,5 @@ There is my vuln POC and EXP. Some of POC were collected, most of POC and EXP we
 
 （24）CVE-2021-41773 Apache路径穿越漏洞复现：https://blog.csdn.net/qq_41490561/article/details/120683183
 
-（25）CVE-2021-42013 Apache路径穿越&命令执行漏洞复现：https://blog.csdn.net/qq_41490561/article/details/120684504
+（25）CVE-2021-42013 Apache路径穿越&命令执行漏洞复现：
+      https://blog.csdn.net/qq_41490561/article/details/120684504
