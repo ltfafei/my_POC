@@ -60,3 +60,5 @@ There is my vuln POC and EXP. Some of POC were collected, most of POC and EXP we
 （22）netentsec_NGFW_RCE_vuln：https://afei00123.blog.csdn.net/article/details/116094274
 
 （23）Ueditor_SSRF_jsp-env_POC：https://afei00123.blog.csdn.net/article/details/115559628
+
+（24）CVE-2021-41773 Apache路径穿越漏洞复现：https://blog.csdn.net/qq_41490561/article/details/120683183
